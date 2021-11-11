@@ -11,7 +11,7 @@
     </div>-->
 
     <div class="container">
-      <SfImage src="/waterfall.jpg" alt="waterfall" width="20px" height="20px"/>
+      <SfImage src="/waterfall.jpg" alt="waterfall" />
       <SfImage src="/forest.jpg" alt="forest" />
       <SfImage src="/hills.jpg" alt="hills" />
       <SfImage src="/forest-hill.jpg" alt="forest-hill" />
@@ -20,6 +20,22 @@
       <SfImage src="/lake.jpg" alt="lake" />
     </div>
 
+    <!--<div class="container"> 
+      <nuxt-img sizes="sm:200px md:400px lg:800px" loading="lazy" quality="75" width="1024"
+      height="800" src="/waterfall.jpg" alt="waterfall" />
+      <nuxt-img sizes="sm:200px md:400px lg:800px" loading="lazy" quality="75" width="1024"
+      height="800" src="/forest.jpg" alt="forest" />
+      <nuxt-img sizes="sm:200px md:400px lg:800px" loading="lazy" quality="75" width="1024"
+      height="800" src="/hills.jpg" alt="hills" />
+      <nuxt-img sizes="sm:200px md:400px lg:800px" loading="lazy" quality="75" width="1024"
+      height="800" src="/forest-hill.jpg" alt="forest-hill" />
+      <nuxt-img sizes="sm:200px md:400px lg:800px" loading="lazy" quality="75" width="1024"
+      height="800" src="/island.jpg" alt="island" />
+      <nuxt-img sizes="sm:200px md:400px lg:800px" loading="lazy" quality="75" width="1024"
+      height="800" src="/beach.jpg" alt="beach" />
+      <nuxt-img sizes="sm:200px md:400px lg:800px" loading="lazy" quality="75" width="1024"
+      height="800" src="/lake.jpg" alt="lake" />
+    </div>-->
   </div>
 </template>
 <script type="module">
