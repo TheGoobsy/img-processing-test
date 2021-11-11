@@ -1,2 +1,2 @@
 # img-processing-test
-Testing SwImage nad Nuxt-Img
+Testing SwImage and Nuxt-Img and comparing there performance and differences
